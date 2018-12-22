@@ -9,5 +9,6 @@
   "private": false,
   "dependencies": { "pbkdf2": "^3.0.17" },
   "devDependencies": { "eslint": "^5.10.0" },
-  "scripts": { "lint": "node_modules\\.bin\\eslint src\\ --quiet" }
+  "scripts": { "lint": "node_modules\\.bin\\eslint src\\ --quiet" },
+  "keywords": [ "util", "utility", "nodejs", "string", "array", "random" ]
 }
