@@ -46,4 +46,4 @@ console.log( scrambled ); 								    // cadsrelbm ( This may be diffrent for yo
 ```
 
 ## Requests
-If you have any ideas that you would like to see in arigato.js, you can request them [here](https://github.com/discordjs/discord.js/issues) or [here](https://discord.gg/SV7DAE9)
+If you have any ideas that you would like to see in arigato.js, you can request them [here](https://github.com/discordjs/arigato.js/issues) or [here](https://discord.gg/SV7DAE9)
