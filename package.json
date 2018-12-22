@@ -1,0 +1,13 @@
+{
+  "name": "arigato.js",
+  "version": "0.0.1",
+  "description": "Utility functions for NodeJS",
+  "main": "index.js",
+  "repository": "https://github.com/passTheWessel/arigato.js",
+  "author": "Wessel \"wesselgame\" T <discord@go2it.eu>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": { "pbkdf2": "^3.0.17" },
+  "devDependencies": { "eslint": "^5.10.0" },
+  "scripts": { "lint": "node_modules\\.bin\\eslint src\\ --quiet" }
+}
